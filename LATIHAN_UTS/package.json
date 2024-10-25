@@ -15,3 +15,12 @@
     "morgan": "~1.9.1"
   }
 }
+
+
+{
+       "produk_id": "isi dengan ObjectId produk",
+       "pengguna_id": "isi dengan ObjectId pengguna",
+       "jumlah": 2,
+       "total_harga": 20000,
+       "ulasan": "Produk bagus"
+   }
